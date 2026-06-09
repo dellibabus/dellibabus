@@ -1,106 +1,63 @@
-<div align="center">
-<h1>Hi there, I'm Delli Babu 👋</h1>
+<h1 align="center">Hi 👋, I'm Delli Babu S</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-<h3>⚡ Full Stack Developer · React Enthusiast · Mobile & Web Builder</h3>
+- I work with **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL**
+- Currently exploring **Next.js, System Design, and Scalable Backend Development**
+- How to reach me **sdellibabu8@gmail.com**
 
-<p>
-  <a href="https://www.linkedin.com/in/delli-babu-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sdellibabu8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/delli-babu-s/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="mailto:sdellibabu8@gmail.com">
+<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" />
+</a>
 </p>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
 
----
+<p align="left">
 
-## 🧑‍💻 About Me
-- 🛠️ Key Skills: React.js, Next.js, React Native, Node.js, Express.js, MongoDB, MySQL, Redux, Zustand
-- 💻 I build full-stack web & mobile apps with modern JS ecosystems
-- 🚀 Currently diving deep into **Next.js**, **React Native**, and **state management**
-- 📫 Reach me at **sdellibabu8@gmail.com**
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
 
----
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
 
-## 🛠️ Tech Stack
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" title="React.js"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" title="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+
 </p>
 
-### 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" title="React Native"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="40" title="Expo CLI"/>
-</p>
+<h3 align="left">Specializations:</h3>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js"/>
-</p>
+- Responsive Web Applications
+- E-Commerce Development
+- Authentication & Authorization
+- Payment Gateway Integration
+- Google Maps & Location Services
+- REST API Integration
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL"/>
-</p>
+<h3 align="left">Third-Party Integrations:</h3>
 
-### 🔄 State Management
-<p>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="40" title="Redux"/>
-  <img src="https://img.shields.io/badge/Zustand-FF6B35?style=for-the-badge&logo=react&logoColor=white" height="40" title="Zustand"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" title="Postman"/>
-</p>
-
-
-## 🔌 Third-Party Integrations
-
-### 💳 Payment Gateways
-<p>
-  <img src="https://img.shields.io/badge/Cashfree-00BAF2?style=for-the-badge&logo=cashfree&logoColor=white" height="35" title="Cashfree Payments"/>
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" height="35" title="Razorpay"/>
-</p>
-
-### 📧 Email Services
-<p>
-  <img src="https://img.shields.io/badge/EmailJS-FF6B35?style=for-the-badge&logo=minutemailer&logoColor=white" height="35" title="EmailJS"/>
-  <img src="https://img.shields.io/badge/Fast_Mail-FFDD57?style=for-the-badge&logo=fastmail&logoColor=black" height="35" title="Fast Mail"/>
-</p>
-
-### 📲 SMS Services
-<p>
-  <img src="https://img.shields.io/badge/OLS_SMS-6C47FF?style=for-the-badge&logo=twilio&logoColor=white" height="35" title="OLS SMS"/>
-  <img src="https://img.shields.io/badge/Fast_SMS-00C853?style=for-the-badge&logo=googlemessages&logoColor=white" height="35" title="Fast SMS"/>
-</p>
-
-### 🗺️ Maps & Location
-<p>
-  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="35" title="Google Maps Integration"/>
-</p>
-
-### 🔗 API Integration
-<p>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" height="35" title="REST APIs"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="35" title="Postman"/>
-</p>
-
-<div align="center">
-  <b>Let's build something great together 🚀</b>
-</div>
+- Razorpay
+- Cashfree
+- EmailJS
+- SMS APIs
+- Google Maps API
+- REST APIs
