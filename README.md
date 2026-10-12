@@ -1,76 +1,81 @@
-# 👋 Hi, I'm Delli Babu S
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a&color=100:111827&height=200&section=header&text=Delli%20Babu%20S&fontSize=52&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" alt="Profile banner" />
 
-<h3 align="center">Full Stack Developer | Web Applications | Backend & API Integrations</h3>
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+%26+API+Engineer;Scalable+Systems+Architect;Payment+Integration+Specialist" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  Building responsive web applications, scalable backend APIs, interactive admin dashboards, and real-time features.
+  Building scalable web applications, robust backend systems, and real-world business solutions that drive growth.
 </p>
 
-- 💻 I work with **React.js, Next.js, TypeScript, Node.js, Express.js, NestJS**
-- 🗄️ Experienced with **MongoDB, MySQL, PostgreSQL, and Supabase**
-- 🔌 Experienced in **REST API Development, Third-Party Integrations, and Real-Time Communication**
-- 💳 Integrated **Razorpay, Cashfree, and Payment Gateway Workflows**
-- 📩 Implemented **Automated Email Notifications and Meta WhatsApp Business API Integration**
-- 🌱 Currently exploring **System Design, Scalable Backend Development, and Application Architecture**
-- 📫 Reach me at **[sdellibabu8@gmail.com](mailto:sdellibabu8@gmail.com)**
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/delli-babu-s/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:sdellibabu8@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
-  </a>
+<p align="center">
+  <a href="mailto:sdellibabu8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/delli-babu-s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-## Languages and Tools
+## 🚀 About Me
 
-### Frontend Development
+I’m a **Full Stack Developer** focused on building modern, production-ready web applications and backend systems that are fast, scalable, and business-friendly.
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
-
-### Backend Development
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://socket.io/images/logo.svg" alt="Socket.IO" width="40" height="40"/>
-</p>
-
-### Databases & Backend Services
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
-</p>
-
-### Development Tools
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
+### What I do
+- ✅ Develop responsive and high-performing web applications
+- ✅ Build scalable REST APIs and backend services
+- ✅ Integrate third-party systems like payment gateways, WhatsApp, and email services
+- ✅ Create admin dashboards, analytics panels, and internal tools
+- ✅ Deliver end-to-end application solutions from frontend to deployment
 
 ---
 
-## Specializations
+## 💼 Core Strengths
+
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, NestJS
+- **Databases:** MongoDB, MySQL, PostgreSQL, Supabase
+- **Real-Time:** Socket.IO, live dashboards and notifications
+- **Integrations:** Razorpay, Cashfree, WhatsApp Business API, Email APIs, Google Maps
+- **Architecture:** Scalable backend design, database optimization, clean application structure
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+
+### Backend
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io)
+
+### Databases
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+
+### Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
+
+</div>
+
+---
+
+## 🎯 Specializations
 
 - Responsive Web Application Development
 - Full Stack Application Development
@@ -88,7 +93,7 @@
 
 ---
 
-## Third-Party Integrations
+## 🔗 Third-Party Integrations
 
 - **Payment Gateways:** Razorpay, Cashfree
 - **Messaging:** Meta WhatsApp Business API, SMS APIs
@@ -96,19 +101,40 @@
 - **Real-Time Communication:** Socket.IO
 - **Maps & Location:** Google Maps API
 - **API Integration:** REST APIs
-- **Backend & Database Services:** PostgreSQL, Supabase
+- **Backend Services:** PostgreSQL, Supabase
 
 ---
 
-## What I Focus On
+## 📊 GitHub Analytics
 
-- Building maintainable and scalable application architectures
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dellibabus&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0)](https://github.com/dellibabus)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dellibabus&theme=tokyonight&background=0f172a&ring=38bdf8&fire=fb7185&currStreakLabel=38bdf8)](https://github.com/dellibabus)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dellibabus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0)](https://github.com/dellibabus)
+
+</div>
+
+---
+
+## 🌱 Current Focus
+
+- Building maintainable and scalable application architecture
 - Developing reliable backend APIs and database integrations
-- Creating intuitive user interfaces and admin dashboards
-- Integrating third-party services into real-world applications
-- Improving application performance, reliability, and user experience
+- Designing intuitive user interfaces and dashboards
+- Integrating third-party services into real-world products
+- Improving performance, reliability, and user experience
 
 ---
+
+## 📬 Contact
+
+I’m open to opportunities, collaborations, and exciting product work.
+
+- Email: [sdellibabu8@gmail.com](mailto:sdellibabu8@gmail.com)
+- LinkedIn: [Delli Babu S](https://www.linkedin.com/in/delli-babu-s/)
 
 <p align="center">
   <i>Build . Innovate . Elevate.</i>
