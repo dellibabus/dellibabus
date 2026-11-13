@@ -32,7 +32,7 @@ I’m a **Full Stack Developer** focused on building modern, production-ready we
 
 ---
 
-## 💼 Core Strengths
+## Core Strengths
 
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express.js, NestJS
@@ -43,7 +43,7 @@ I’m a **Full Stack Developer** focused on building modern, production-ready we
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@ I’m a **Full Stack Developer** focused on building modern, production-ready we
 
 ---
 
-## 🎯 Specializations
+## Specializations
 
 - Responsive Web Application Development
 - Full Stack Application Development
@@ -93,7 +93,7 @@ I’m a **Full Stack Developer** focused on building modern, production-ready we
 
 ---
 
-## 🔗 Third-Party Integrations
+## Third-Party Integrations
 
 - **Payment Gateways:** Razorpay, Cashfree
 - **Messaging:** Meta WhatsApp Business API, SMS APIs
@@ -102,20 +102,6 @@ I’m a **Full Stack Developer** focused on building modern, production-ready we
 - **Maps & Location:** Google Maps API
 - **API Integration:** REST APIs
 - **Backend Services:** PostgreSQL, Supabase
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dellibabus&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0)](https://github.com/dellibabus)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dellibabus&theme=tokyonight&background=0f172a&ring=38bdf8&fire=fb7185&currStreakLabel=38bdf8)](https://github.com/dellibabus)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dellibabus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0)](https://github.com/dellibabus)
-
-</div>
 
 ---
 
